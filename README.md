@@ -1,1 +1,1 @@
-# CS4125Proj22 'Gym Booking System'
+Gym booking system written in Java . Goal of this project was to encorporate design and architectural patterns within our design of the system including Factory , State Design , Decorator and Observer Design Patterns
